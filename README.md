@@ -1,4 +1,4 @@
-# Analysing-stocks-by-python
+# Analysing-stocks-with-python
 
 
 import pandas as pd
